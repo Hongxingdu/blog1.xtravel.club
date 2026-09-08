@@ -35,3 +35,18 @@ In each of them, Hawksworth personifies the natural object he is exploring, and 
 I don’t want you to think that I’m boasting, but I do believe I’m one of the greatest travellers that ever was; and if anybody, living or dead, has ever gone through with more than I have I’d like to hear about it.
 
 Hallam Hawksworth was the pen-name of teacher Francis Blake Atkinson. He was married to the author Eleanor Stackhouse Atkinson, author of the children’s classic Greyfriars Bobby, which was based on the (supposedly) true story of a Scottish dog who spent fourteen years guarding his masters grave. The couple were both committed to education and published a weekly magazine for Chicago high school students called The Little Chronicle, as well as working for Encyclopaedia companies later in life.
+
+
+---
+【联系我们】
+行程定制、包车、机场接送、微留学、亲子游、户外游、订住宿
+快客旅行（Xtravel Club）
+PO Box 107129 Auckland Airport
+ Auckland 2150
+
+Mobile/手机：022 496 4978
+Email/邮箱：info@xtravel.club
+Web /网站：http://xtravel.club
+微信号/QQ： 496 4978
+扫描关注我们的企业微信号: 
+![企业微信号](/assets/images/CI/WEchat.jpg "企业微信号")

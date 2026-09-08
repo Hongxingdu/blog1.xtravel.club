@@ -13,3 +13,17 @@ image: assets/images/13.jpg
 - By default, the Jekyll site installed by `jekyll new` uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.
 - We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use `jekyll new myblog --blank`
 - To learn about other parameters you can include with `jekyll new`, type `jekyll new --help`.
+
+---
+【联系我们】
+行程定制、包车、机场接送、微留学、亲子游、户外游、订住宿
+快客旅行（Xtravel Club）
+PO Box 107129 Auckland Airport
+ Auckland 2150
+
+Mobile/手机：022 496 4978
+Email/邮箱：info@xtravel.club
+Web /网站：http://xtravel.club
+微信号/QQ： 496 4978
+扫描关注我们的企业微信号: 
+![企业微信号](/assets/images/CI/WEchat.jpg "企业微信号")
