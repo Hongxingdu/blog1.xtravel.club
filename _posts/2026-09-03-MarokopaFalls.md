@@ -4,6 +4,7 @@ title:  "【快客攻略】怀托摩的马罗考帕瀑布（ Marokopa Falls）"
 author: august
 categories: [攻略, Waikato ]
 image: assets/images/Marokopa Falls.jpg
+tags: [featured]
 ---
 
 步行穿越长满塔瓦树和尼考棕榈的原始森林，到达终点时可以在观景台上欣赏马罗考帕瀑布 (Marokopa Falls) 的绝美景色。全程往返仅需20分钟。瀑布将马罗考帕河 (Marokopa River) 分割为两段，沿岸分布着多个热门的鳟鱼垂钓点。马罗考帕瀑布常被誉为新西兰最美的瀑布，落差高达35米，绝对值得一游:[http://bit.ly/37P2nOr](http://bit.ly/37P2nOr)
