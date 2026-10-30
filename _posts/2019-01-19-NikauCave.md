@@ -2,8 +2,8 @@
 layout: post
 title:  "【快客夏令营007】探秘北岛西海岸：洞穴地底探险 × 零距离萤火虫 × 怀卡托河口滑沙钓鱼"
 author: 快客小哥
-categories: [ 夏令营, 亲子户外 ]
-image: assets/images/cave-adventure.jpg
+categories: [ 夏令营, 亲子户外，一日游 ]
+image: assets/images/NikauCave/NIkau1.png
 tags: [ 洞穴探险, 萤火虫, 滑沙, 怀卡托, 亲子游 ]
 ---
 
