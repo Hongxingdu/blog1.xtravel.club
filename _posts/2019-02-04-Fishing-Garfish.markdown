@@ -1,11 +1,12 @@
 ---
-
 layout: post
 title:  "【快客攻略】新西兰海钓宝藏鱼种：Garfish (Piper) 针鱼全攻略"
 author: Xtravel Club
 categories: [ 钓鱼, 新西兰海钓 ]
 image: /assets/images/Fishing/garfish.png
 tags: [ 钓鱼, Garfish, Piper, 海钓技巧, 快客钓鱼俱乐部 ]
+---
+
 
 在新西兰的海岸线垂钓，有一种鱼体型虽小，却是名气响亮的“全能明星”——它就是 **Garfish**（在新西兰通常被称为 **Piper**）。
 
