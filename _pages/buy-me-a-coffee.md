@@ -1,12 +1,10 @@
 ---
 title: "Buy me a coffee"
-permalink: "/buy-me-a-coffee.html"
+permalink: "https://ko-fi.com/xtravelclub"
 ---
 
-Hi! I am Sal, web designer & developer at WowThemes.net. The free items I create are my side projects and **Mundana for Jekyll** is one of them. You can find **all the work I release for free [here](https://www.wowthemes.net/category/free-themes-templates/)**. 
-
-You have my permission to use the free items I develop in your personal, commercial or client projects. If you'd like to reward my work, I would be honored and I could dedicate more time maintaining the free projects. 
+Hi! I am August. I have been living in New Zealand for more than a decade and travelling a lot. I have posted what I saw, heard and felt here and hope that could bring something new to your life. At the same time, if you could support me a little bit, we could make things much better. 
 
 Thank you so much!
 
-<a class="btn btn-danger" href="https://www.wowthemes.net/donate/">Buy me a coffee</a>
+<a class="btn btn-danger" href="https://ko-fi.com/xtravelclub">Buy me a coffee</a>

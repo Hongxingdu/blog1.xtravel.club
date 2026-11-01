@@ -2,7 +2,7 @@
 layout: post
 title:  "【快客后视镜 Vol.1】雨停的时候，她一个人看见了彩虹"
 author: August
-categories: [ 后视镜, tutorial ]
+categories: [ story, 后视镜 ]
 image: assets/images/rainbow.jpg
 tags: [快客后视镜,故事,新西兰旅行,独行,个人感悟]
 ---
