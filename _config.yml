@@ -3,7 +3,7 @@ name: 'Xtravel Blog'
 description: 'Enjoy your trips '
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/'
+baseurl: ''
 disqus: 'vizthought'
 email: 'info@xtravel.club'
 mailchimp-list: 
