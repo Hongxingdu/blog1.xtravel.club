@@ -4,7 +4,7 @@ title:  "【快客攻略】宛如《指环王》中土世界：当地人私藏�
 author: August
 categories: [tips,景点攻略, 新西兰旅游 ]
 image: assets/images/YarndleysBush/YarndleysBush.png
-tags: [ 徒步, 亲子游, 小众景点, 怀卡托, Yarndleys Bush, 快客旅行 ]
+tags: [sticky, 徒步, 亲子游, 小众景点, 怀卡托, Yarndleys Bush, 快客旅行 ]
 ---
 
 又到了快客小哥推荐小众宝藏景点的时候了！这次要给大家安利的 **Yarndleys Bush**，是当地人私藏的非著名秘境，在谷歌点评上拥有 **4.5 分** 的好口碑. **详细攻略参考**：[http://bit.ly/35R2MxL](http://bit.ly/35R2MxL)
