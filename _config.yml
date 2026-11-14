@@ -22,7 +22,7 @@ authors:
     August:
       name:           August
       site:           https://blog1.xtravel.club
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/august.png
       bio:            "Hi, I am August, the author of Xtravel Blog, the articles you're currently reading. I hope you like it!"
       email:          info@xtravel.club
       twitter:        https://x.com/augustdu2
@@ -37,8 +37,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: august
-      avatar: /assets/images/avatar1.jpg
+      author: August
+      avatar: /assets/images/august.png
       
   # all pages
   - scope:
