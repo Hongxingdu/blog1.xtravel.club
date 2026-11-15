@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【快客攻略】奥克兰一日徒步 Rangitoto Island：登上600年前的火山岛，360°俯瞰千帆之都"
-author: august
+author: August
 categories: [ 景点攻略, 新西兰旅游 ]
 image: assets/images/ButtIsland/Rangitoto.jpg
 tags: [ 奥克兰, Rangitoto Island, 火山岛, 徒步, 一日游, 快客旅行 ]

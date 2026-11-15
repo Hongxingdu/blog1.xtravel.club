@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【快客攻略】新西兰海钓宝藏鱼种：Garfish (Piper) 针鱼全攻略"
-author: Xtravel Club
+author: August
 categories: [ 钓鱼, 新西兰海钓, fishing ]
 image: assets/images/Fishing/garfish.png
 tags: [ 钓鱼, Garfish, Piper, 海钓技巧, 快客钓鱼俱乐部 ]

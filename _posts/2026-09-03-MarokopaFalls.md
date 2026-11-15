@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "【快客攻略】怀托摩的马罗考帕瀑布（ Marokopa Falls）"
-author: august
+author: August
 categories: [tips, 攻略, Waikato ]
 image: assets/images/Marokopa Falls.jpg
 tags: [featured]
