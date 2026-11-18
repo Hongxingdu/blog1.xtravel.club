@@ -44,6 +44,15 @@ comments: true
 * 自由行
 
 
+## Logo
+
+* main color: #004288 (RGB 0, 66, 136)
+
+## Newsletter 
+
+currently Mailchimp Subscribe Form from _layouts/post.html
+
+
 
 
 
