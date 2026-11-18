@@ -239,6 +239,8 @@ a.text-dark:hover {
 	left:100%;
 	margin-top:0;
 }
+.dropdown-menu .dropdown-submenu:hover > .dropdown-menu,
+.dropdown-menu .dropdown-submenu:focus-within > .dropdown-menu,
 .dropdown-menu .dropdown-submenu[open] > .dropdown-menu {
 	display:block;
 }
