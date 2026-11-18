@@ -1,5 +1,5 @@
 <div class="sticky-top sticky-top-offset">
-    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <h4 class="font-weight-bold spanborder"><span>Featured/优选</span></h4>  
     <ol class="list-featured">				
         {% for post in site.tags.featured %}                
             <li class="mb-4">
@@ -18,8 +18,8 @@
             </li>                
         {% endfor %}   
     </ol>
-    {% if page.url == "/" %}
-    <h4 class="font-weight-bold spanborder mt-5"><span>Tags</span></h4>
+    {% if page.url == "/" or page.url == "/categories.html" or page.url == "/tags.html" %}
+    <h4 class="font-weight-bold spanborder mt-5"><span>Tags/标签</span></h4>
     <div class="tag-cloud">
         {% for tag in site.tags %}
             {% unless tag[0] == "featured" or tag[0] == "sticky" %}

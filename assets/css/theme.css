@@ -208,6 +208,14 @@ a.text-dark:hover {
 .dropdown-item {
 	font-weight:400;
 }
+.dropdown-menu .dropdown-item:hover,
+.dropdown-menu .dropdown-item:focus,
+.dropdown-menu summary:hover,
+.dropdown-menu summary:focus {
+	color:#fff;
+	background-color:#004288;
+	text-decoration:none;
+}
 .dropdown-menu {
 	border:0;
 	text-transform:none;
