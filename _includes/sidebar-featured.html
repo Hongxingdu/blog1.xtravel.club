@@ -18,4 +18,15 @@
             </li>                
         {% endfor %}   
     </ol>
+    {% if page.url == "/" %}
+    <h4 class="font-weight-bold spanborder mt-5"><span>Tags</span></h4>
+    <div class="tag-cloud">
+        {% for tag in site.tags %}
+            {% unless tag[0] == "featured" or tag[0] == "sticky" %}
+            {% assign tag_size = tag[1].size | times: 0.1 | plus: 0.8 %}
+            <a class="badge badge-light border mb-2" style="font-size: {{ tag_size }}rem;" href="{{site.baseurl}}/tags.html#{{ tag[0] | downcase }}">{{ tag[0] }}</a>
+            {% endunless %}
+        {% endfor %}
+    </div>
+    {% endif %}
 </div> 
