@@ -91,8 +91,8 @@ tags: [ 钓鱼, Garfish, Piper, 海钓技巧, 快客钓鱼俱乐部 ]
 
 ---
 
-【联系我们】
-行程定制、包车、机场接送、微留学、亲子游、户外游、订住宿
+## 【联系我们】
+
 快客旅行（Xtravel Club）
 PO Box 107129 Auckland Airport
 Auckland 2150

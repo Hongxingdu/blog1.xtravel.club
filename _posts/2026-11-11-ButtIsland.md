@@ -88,8 +88,8 @@ tags: [ 奥克兰, Rangitoto Island, 火山岛, 徒步, 一日游, 快客旅行 
 
 ---
 
-【联系我们】
-行程定制、包车、机场接送、微留学、亲子游、户外游、订住宿  
+## 【联系我们】
+
 快客旅行（Xtravel Club） 
 
 PO Box 107129 Auckland Airport

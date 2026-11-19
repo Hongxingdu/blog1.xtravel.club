@@ -27,7 +27,7 @@ AKL/HLZ/ROT/TUO-0701003-奥克兰/汉密尔顿/罗托罗拉/陶波出发怀托�
 
 ---
 ## 【联系我们】  
-行程定制、包车、机场接送、微留学、亲子游、户外游、订住宿  
+
 快客旅行（Xtravel Club）
 PO Box 107129 Auckland Airport  
  Auckland 2150  

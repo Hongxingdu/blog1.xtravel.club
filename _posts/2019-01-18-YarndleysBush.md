@@ -103,8 +103,8 @@ Yarndleys Bush 不仅植物茂密，更是本地野生动物的栖息地。带�
 
 
 ---
-【联系我们】
-行程定制、包车、机场接送、微留学、亲子游、户外游、订住宿   
+## 【联系我们】
+ 
 快客旅行（Xtravel Club） 
 
 PO Box 107129 Auckland Airport  
