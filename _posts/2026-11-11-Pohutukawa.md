@@ -2,7 +2,7 @@
 layout: post
 title:  "【快客科普】海岸线上的烈焰红花：为什么新西兰人的“圣诞树”开在盛夏海边？"
 author: August
-categories: [ 新西兰百科, 植物图鉴 ]
+categories: [ 新西兰百科, 植物图鉴,杂 ]
 image: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/PohutukawaCornwallis.jpg/500px-PohutukawaCornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 tags: [ Pohutukawa, 新西兰圣诞树, 新西兰植物, 夏季旅行, 文化科普, 快客旅行 ]
 ---
@@ -57,6 +57,8 @@ tags: [ Pohutukawa, 新西兰圣诞树, 新西兰植物, 夏季旅行, 文化科
 在奥克兰市区东侧的 Mission Bay 一带，沿着海滨大道（Tamaki Drive）散步，一排排高大的 Pōhutukawa 树冠交织成天然的红色长廊，透过花枝的缝隙，正好能看见对面海湾里静静矗立的 Rangitoto 火山岛——而那座六百年前喷发形成的火山岛上，正生长着全世界最大面积的原生 Pōhutukawa 森林，漆黑的火山岩与火红的花朵交织，有着令人屏息的野性美感。如果你继续向东自驾前往科罗曼德尔半岛，在教堂湾的白色悬崖顶上，还能看到巨大的红花树直接从岩壁探出身子，仿佛要把一树繁花倾倒进碧绿的海水里。
 
 每当盛花期来临，树冠里总是格外热闹。清甜的花蜜就像是大自然发出的盛宴邀请函，吸引着成群的图伊鸟（Tūī）、铃鸟（Bellbird）和体态胖乎乎的新西兰木鸽（Kererū）在枝头穿梭大快朵颐。
+
+![Tui on a Pohutukawa tree]( /assets/images/Birds/tui_on_pohutukawa.jpg "Tui on a Pohutukawa tree" )
 
 所以下次在盛夏的新西兰海边漫步时，不妨放慢脚步，找一棵开满红花的 Pōhutukawa 树荫坐下——当然，记得爱护这些受法律保护的本土珍稀巨树，千万不要随意折枝。听着海浪拍岸，看着林鸟在头顶的红花间跳跃鸣唱，那一刻你便会明白，为什么新西兰人会把这棵海边巨树当成一年中最温暖的节日象征。
 
