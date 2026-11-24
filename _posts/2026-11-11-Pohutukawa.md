@@ -12,7 +12,7 @@ tags: [ Pohutukawa, 新西兰圣诞树, 新西兰植物, 夏季旅行, 文化科
 ---
 它的最常见的名字是圣诞树，因为它在圣诞节期间盛开，人们用它来装饰节日。它也叫铁树，因为它的树干干燥后坚硬如铁。还有人叫它花椰菜树(broccoli tree)，主要因为它的外形，看看像不像？
 
-![Pohutukawa ](/assets/images/Plants/Te-Waha-o-Rerekohu-6__FocusFillWyIwLjAwIiwiMC4wMCIsMTczNSwxMDgwXQ.jpg.webp “Pohutukawa ")
+![Pohutukawa ](/assets/images/Plants/Te-Waha-o-Rerekohu-6__FocusFillWyIwLjAwIiwiMC4wMCIsMTczNSwxMDgwXQ.jpg “Pohutukawa ")
 ---
 
 ### 海岸悬崖上的“顽强老者”
