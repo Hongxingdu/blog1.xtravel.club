@@ -21,7 +21,7 @@ tags: [ Pohutukawa, 新西兰圣诞树, 新西兰植物, 夏季旅行, 文化科
 
 每当南半球的夏风吹起，无数细长的绯红色雄蕊便会聚拢成一团团毛茸茸的球状花簇，密密麻麻地铺满枝头。远看过去，就像一团团正在海岸线上熊熊燃烧的火焰，将碧蓝的大海与金黄的沙滩映衬得格外明艳。
 
-![Pohutukawa blossom]（https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Pohutukawa_%281%29_%285272256657%29.jpg/1920px-Pohutukawa_%281%29_%285272256657%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail “Pohutukawa blossom")
+![Pohutukawa blossom]（/assets/images/Plants/Pohutukawa-Park.webp “Pohutukawa blossom")
 
 
 ---
