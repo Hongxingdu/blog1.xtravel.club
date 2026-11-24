@@ -57,7 +57,7 @@ tags: [ Pohutukawa, 新西兰圣诞树, 新西兰植物, 夏季旅行, 文化科
 
 在奥克兰市区东侧的 Mission Bay 一带，沿着海滨大道（Tamaki Drive）散步，一排排高大的 Pōhutukawa 树冠交织成天然的红色长廊，透过花枝的缝隙，正好能看见对面海湾里静静矗立的 Rangitoto 火山岛——而那座六百年前喷发形成的火山岛上，正生长着全世界最大面积的原生 Pōhutukawa 森林，漆黑的火山岩与火红的花朵交织，有着令人屏息的野性美感。如果你继续向东自驾前往科罗曼德尔半岛，在教堂湾的白色悬崖顶上，还能看到巨大的红花树直接从岩壁探出身子，仿佛要把一树繁花倾倒进碧绿的海水里。
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1u-bzDLZbfRjUPw9wW5kuxd4_iVEXvKU&ehbc=2E312F" width="640" height="100%"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1u-bzDLZbfRjUPw9wW5kuxd4_iVEXvKU&ehbc=2E312F" width="100%" height="680"></iframe>
 
 
 每当盛花期来临，树冠里总是格外热闹。清甜的花蜜就像是大自然发出的盛宴邀请函，吸引着成群的图伊鸟（Tūī）、铃鸟（Bellbird）和体态胖乎乎的新西兰木鸽（Kererū）在枝头穿梭大快朵颐。
